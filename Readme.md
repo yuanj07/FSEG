@@ -1,8 +1,8 @@
-# fFactorization-based segmentation algorithm
+# Factorization-based segmentation algorithm
 
 This software implements the factorization-based segmentation algorithm, which is described in 
 
-**J. Yuan, D. L. Wang, and A. M. Cheriyadat. Factorization-based texture segmentation. IEEE Transactions on Image Processing, 2015.
+**J. Yuan, D. L. Wang, and A. M. Cheriyadat. Factorization-based texture segmentation. IEEE Transactions on Image Processing, 2015.**
 
 This is a software for non-commercial purpose. Please contact the author for commercial use.
 
