@@ -13,7 +13,9 @@ To run the code, you need Matlab with image processing tool box and mex is confi
 ## Usage
 
 Run the following commands in the matlab prompt. This only needs to be done once.
+
 `mex SHcomp.c`
+
 `mex SHedge_1s.c`
 
 Run demoFctSeg.m. This segments an aerial image. 
