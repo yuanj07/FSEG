@@ -48,7 +48,8 @@ void mexFunction(
 {
     int N1, N2, dn, ws, dism;
     int i, j, b, k;
-    int ndim, *dims;
+    int ndim;
+    const size_t *dims;
 	float *up, *bt, *lf, *rt;   
     float *EdgeMap, *sh_mx;
  

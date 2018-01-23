@@ -12,7 +12,9 @@ void mexFunction(
 {
     int N1, N2, bn, ws, sz, bb = BinN;
     int i, j, b, k, mdid;
-    int ndim, *dimsIg, dims[3];
+    int ndim;
+    size_t dims[3];
+    const size_t *dimsIg;
     int wtl[2], wbr[2];
     float U, md, tmp, Imax, Imin, tmpm[BinN], binc[BinN];    
     float *Ig, *sh_mx, *HImap;
