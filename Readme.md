@@ -4,7 +4,7 @@ This software implements the factorization-based segmentation algorithm, which i
 
 **J. Yuan, D. L. Wang, and A. M. Cheriyadat. Factorization-based texture segmentation. IEEE Transactions on Image Processing, 2015.**
 
-A Python version is also available at [Here](https://github.com/yuanj07/FSEG_py)
+A Python version is also available at [here](https://github.com/yuanj07/FSEG_py).
 
 ## Initial setup
 
